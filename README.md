@@ -5,7 +5,11 @@ Este repositorio contiene la documentación, y eventualmente, el codigo, del pro
 En este proyecto buscamos abarcar esta problematica integrada buscando la maximización de satisfacción del usuario bajo la reducción de tiempos de espera y estableciendo frecuencias que optimizen los recursos del operador.
 
 
-Actualización del contenido
+## Documentación
+* Entrega1_Gonzalez-Estupinan : Documento de introducción, revisión literaria y planteamiento del problema
+
+## Codigos
+*Proximamente...
 
 ## Actualización del contenido
 El contenido de este repositorio sera actualizado acorde a las siguientes fechas:
@@ -13,3 +17,7 @@ El contenido de este repositorio sera actualizado acorde a las siguientes fechas
 * Documentaión de metodologia y codigo de formulación matematica - **Octubre 11**
 * Codigo implementado en caso de estudio: Monteria, Colombia - **Noviembre 1**
 * Codigo de generación de gráficos y visualizaciones. - **Noviembre 23**
+
+
+
+El proyecto se encuentra enmarcado en la clase IIND 4115 - Network flow and transportation analytics, de la Universidad de los Andes.
