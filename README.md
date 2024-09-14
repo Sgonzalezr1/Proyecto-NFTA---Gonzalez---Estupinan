@@ -7,3 +7,9 @@ En este proyecto buscamos abarcar esta problematica integrada buscando la maximi
 
 Actualización del contenido
 
+## Actualización del contenido
+El contenido de este repositorio sera actualizado acorde a las siguientes fechas:
+* Documento de introducción y revisión literaria - **13 de septiembre**
+* Documentaión de metodologia y codigo de formulación matematica - **Octubre 11**
+* Codigo implementado en caso de estudio: Monteria, Colombia - **Noviembre 1**
+* Codigo de generación de gráficos y visualizaciones. - **Noviembre 23**
