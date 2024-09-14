@@ -23,4 +23,4 @@ El contenido de este repositorio sera actualizado acorde a las siguientes fechas
 El proyecto se encuentra enmarcado en la clase IIND 4115 - Network flow and transportation analytics, de la Universidad de los Andes.
 
 
-Santiago Gonzalez R & Maria Paula Estupiñan
+Integrantes: **Santiago Gonzalez R & Maria Paula Estupiñan**
