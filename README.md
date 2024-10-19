@@ -5,16 +5,18 @@ Este repositorio contiene la documentación, y eventualmente, el codigo, del pro
 En este proyecto buscamos abarcar esta problematica integrada buscando la maximización de satisfacción del usuario bajo la reducción de tiempos de espera y estableciendo frecuencias que optimizen los recursos del operador.
 
 
-## Documentación
+## Documentación (Link al overleaf - https://www.overleaf.com/3221932421rxkstxgpspgx#f3b632)
 * Entrega1_Gonzalez-Estupinan : Documento de introducción, revisión literaria y planteamiento del problema
+* Entrega2_Gonzalez-Estupinan :  Documento de introducción, revisión literaria, planteamiento del problema, formulación matematica y metodologia.
 
 ## Codigos
-*Proximamente...
+*Codigo Implementado.
+*Codigo Formulación matematica - AMPL.
 
 ## Actualización del contenido
 El contenido de este repositorio sera actualizado acorde a las siguientes fechas:
 * Documento de introducción y revisión literaria - **13 de septiembre**
-* Documentaión de metodologia y codigo de formulación matematica - **Octubre 11**
+* Documentación de metodologia y codigo de formulación matematica - **Octubre 18**
 * Codigo implementado en caso de estudio: Monteria, Colombia - **Noviembre 1**
 * Codigo de generación de gráficos y visualizaciones. - **Noviembre 23**
 
