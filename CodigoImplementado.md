@@ -1,5 +1,3 @@
-***Codigo implementado ***
-
 **Algoritmo Greedy con busqueda local**
 
 ```
@@ -35,10 +33,7 @@ for t in range(m):
             w[t,f]=llegadas_pasajeros[t, f]  # No hay pasajeros esperando en el intervalo inicial
         else:
             # Aplicar la restricción (10): w(t,f) = w(t-1,f) + λ(t-1,f) - b(t,f)
-            w[t,f]=w[t - 1, f] + llegadas_pasajeros[t - 1, f] - b[t, f]
-```
-
-```        
+            w[t,f]=w[t - 1, f] + llegadas_pasajeros[t - 1, f] - b[t, f]      
 # Función para construir la RCL (Restricted Candidate List)
 def generar_rcl(i, f, j):
     rcl = []
