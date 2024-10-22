@@ -86,7 +86,7 @@ subject to despacho_secuencial {f in F, j in S_f[f], i in 1..card(B_f[f])-1}:
     t_disp[i+1, j, f] >= t_disp[i, j, f];
     
 #Restricción 2 - Intervalo entre ultimo bus de ciclo o servicio y siguiente
-subject to interval_last_to_first {f in F, j in 1..card(S_f[f])-1}:
+subject to interval_ultimo_primero {f in F, j in 1..card(S_f[f])-1}:
     h_min <= t_disp[1, j+1, f] - t_disp[card(B_f[f]), j, f] <= h_max;
 
 #Restricción 3 - Maximo de un despacho por servicio en el mismo bus t sentido
