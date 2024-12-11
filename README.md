@@ -11,8 +11,7 @@ En este proyecto buscamos abarcar esta problematica integrada buscando la maximi
 * Entrega2_Gonzalez-Estupinan :  Documento de introducción, revisión literaria, planteamiento del problema, formulación matematica y metodologia.
 
 ## Codigos
-* Codigo Implementado.
-* Codigo Formulación matematica - AMPL.
+* Codigo Implementad para 7 instancias en ruta (Panzenu, Pradera,KM15, Dorado, Santa Lucia,Leticia, Carrizal)
 
 ## Actualización del contenido
 El contenido de este repositorio sera actualizado acorde a las siguientes fechas:
@@ -20,6 +19,7 @@ El contenido de este repositorio sera actualizado acorde a las siguientes fechas
 * Documentación de metodologia y codigo de formulación matematica - **Octubre 18**
 * Codigo implementado en caso de estudio: Monteria, Colombia - **Noviembre 1**
 * Codigo de generación de gráficos y visualizaciones. - **Noviembre 23**
+* Codigos finales para las rutas:  Panzenu, Pradera,KM15, Dorado, Santa Lucia,Leticia, Carrizal. Cabe mencionar que los codigos de Panzenu y Pradera son los unicos que incluyen graficos interactivos - **Diciembre 11**
 
 
 
