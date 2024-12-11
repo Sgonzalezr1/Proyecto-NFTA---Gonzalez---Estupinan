@@ -9,6 +9,8 @@ En este proyecto buscamos abarcar esta problematica integrada buscando la maximi
 **Link al overleaf - https://www.overleaf.com/3221932421rxkstxgpspgx#f3b632**
 * Entrega1_Gonzalez-Estupinan : Documento de introducción, revisión literaria y planteamiento del problema
 * Entrega2_Gonzalez-Estupinan :  Documento de introducción, revisión literaria, planteamiento del problema, formulación matematica y metodologia.
+* Entrega4_Gonzalez-Estupinan :  Documento final de la investigación
+
 
 ## Codigos
 * Codigo Implementad para 7 instancias en ruta (Panzenu, Pradera,KM15, Dorado, Santa Lucia,Leticia, Carrizal)
